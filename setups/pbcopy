@@ -1,0 +1,20 @@
+# ~/.config/ghostty/config
+
+# --- Appearance ---
+theme = Catppuccin Mocha
+background-opacity = 0.90
+background-blur-radius = 20
+window-padding-x = 10
+window-padding-y = 10
+
+# --- Font ---
+font-family = "JetBrainsMono Nerd Font"
+font-size = 14
+# Thicken font slightly for better readability on Retina displays
+font-thicken = true
+
+# --- Performance & Behavior ---
+# Ghostty defaults to GPU acceleration, so explicit rendering tweaks aren't usually needed.
+macos-option-as-alt = true
+cursor-style = block
+
